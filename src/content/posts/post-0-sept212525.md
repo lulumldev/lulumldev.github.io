@@ -45,32 +45,24 @@ The better result was from still having the strengths that were relative high (1
 Next experiment was to try the regional prompter, which did not work very well .. was supposed to be divided horizontally.
 But there was still some interesting result, which the best can see here:
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
+![AI water](../../assets/images/post0/fish1.png)
+![AI water](../../assets/images/post0/fish2.png)
+![AI water](../../assets/images/post0/fish3.png)
+![AI water](../../assets/images/post0/fish4.png)
+</div>
+
 ![AI water](../../assets/images/post0/fish1.png)
 ![AI water](../../assets/images/post0/fish2.png)
 ![AI water](../../assets/images/post0/fish3.png)
 ![AI water](../../assets/images/post0/fish4.png)
 
 
-
-
-
-
-
-
-
-
-
-
 References:
 
-
-
-
-```markdown
----
-title: Draft Example
-published: 2024-01-11T04:40:26.381Z
-tags: [Markdown, Blogging, Demo]
-category: Examples
-draft: false
----
+https://stable-diffusion-art.com/how-stable-diffusion-work/#Diffusion_model
+https://stable-diffusion-art.com/automatic1111/
+https://stable-diffusion-art.com/beginners-guide/
+https://huggingface.co/learn/diffusion-course/unit0/1
+https://arxiv.org/abs/2307.01952
+https://arxiv.org/abs/2108.01073
