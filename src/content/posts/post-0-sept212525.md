@@ -10,7 +10,9 @@ This will show some examples of the images as result of experiment with the sabl
 
 The collab used for this was found (here)
 
+test images:
 
+<Image src="/assets/images/post0/cat1.jpg" alt="AI cat" width="50" height="50" />
 
 References:
 
