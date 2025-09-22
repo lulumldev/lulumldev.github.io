@@ -2,6 +2,7 @@
 title: Stable Difusion Experiment - w1
 published: 2025-09-21
 description: txt2imag experiments with stable difusion automatic1111
+image: "./fish6.png"
 tags: [txt2img, stable diffusion, test, automatic1111]
 category: test
 draft: false
