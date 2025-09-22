@@ -1,7 +1,6 @@
 ---
 title: Stable Difusion Experiment - w1
 published: 2025-09-21
-description: experiments in stable difusion txt to image
 tags: [Markdown, Blogging, Demo]
 category: Experiment
 draft: false
@@ -26,10 +25,6 @@ Found out the reason for the multiple subjects was due to using the image size 1
 
 Apparently if the strength of the prompt is adjusted so much their remains a lot of noise in the image as can see:
 
-![AI water](../../assets/images/post0/water1.png)
-![AI water](../../assets/images/post0/water2.png)
-![AI water](../../assets/images/post0/water3.png)
-![AI water](../../assets/images/post0/water4.png)
 
 
 
