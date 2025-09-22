@@ -1,16 +1,20 @@
 ---
 title: Stable Difusion Experiment - w1
 published: 2025-09-21
-tags: [Markdown, Blogging, Demo]
-category: Experiment
+description: txt2imag experiments with stable difusion automatic1111
+tags: [txt2img, stable diffusion, test, automatic1111]
+category: test
 draft: false
 ---
 
-This will show some examples of the images as result of experiment with the sable difusion in Automatic 1111 google collab.
+## 1.0 Introduction
 
-The collab used for this was found (here)
 
-test images:
+This will show some examples of the images as result of experiment with the stable difusion in Automatic 1111 google collab.
+
+The collab used from the "stable diffusion art" page [here](https://stable-diffusion-art.com/automatic1111-colab/)
+
+Started with all of the default configurations:
 
 havent figure out how to test it locally yet wiht this template.. 
 
@@ -19,10 +23,11 @@ havent figure out how to test it locally yet wiht this template..
 ![AI cat](../../assets/images/post0/cat3.png)
 ![AI cat](../../assets/images/post0/cat4.png)
 
-The next test was to with adding the different strength to the prompt such as (keyword:2) and ((keyword)).
+## 2.0 Image size and keyword strength
 
-Found out the reason for the multiple subjects was due to using the image size 1024x1024 which was four times the trianing size of images 512x512
+The next test was to with adding the different strength to the prompt such as (keyword:2) and ((keyword)). 
 
+Found out the reason for the multiple subjects was due to using the image size 1024x1024 which was four times the trianing size of images 512x512. The better workflow is to only generate the 512x512 images, and then to use the upscaler.
 Apparently if the strength of the prompt is adjusted so much their remains a lot of noise in the image as can see:
 
 ![AI water](../../assets/images/post0/water3.png)
@@ -42,15 +47,10 @@ The better result was from still having the strengths that were relative high (1
 ![AI water](../../assets/images/post0/water1.png)
 ![AI water](../../assets/images/post0/water2.png)
 
-Next experiment was to try the regional prompter, which did not work very well .. was supposed to be divided horizontally.
-But there was still some interesting result, which the best can see here:
+## Regional Prompter
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
-![AI water](../../assets/images/post0/fish1.png)
-![AI water](../../assets/images/post0/fish2.png)
-![AI water](../../assets/images/post0/fish3.png)
-![AI water](../../assets/images/post0/fish4.png)
-</div>
+Next experiment was to try the regional prompter, which did not work very well .. was supposed to be divided horizontally. 
+But there was still some interesting result, which the best can see here:
 
 ![AI water](../../assets/images/post0/fish1.png)
 ![AI water](../../assets/images/post0/fish2.png)
@@ -60,9 +60,10 @@ But there was still some interesting result, which the best can see here:
 
 References:
 
-https://stable-diffusion-art.com/how-stable-diffusion-work/#Diffusion_model
-https://stable-diffusion-art.com/automatic1111/
-https://stable-diffusion-art.com/beginners-guide/
-https://huggingface.co/learn/diffusion-course/unit0/1
-https://arxiv.org/abs/2307.01952
-https://arxiv.org/abs/2108.01073
+-https://stable-diffusion-art.com/how-stable-diffusion-work/
+-https://stable-diffusion-art.com/automatic1111/
+-https://stable-diffusion-art.com/beginners-guide/
+-https://huggingface.co/learn/diffusion-course/unit0/1
+-SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis https://arxiv.org/abs/2307.01952
+-SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations https://arxiv.org/abs/2108.01073
+-High-Resolution Image Synthesis with Latent Diffusion Models https://arxiv.org/pdf/2112.10752
