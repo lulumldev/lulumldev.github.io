@@ -12,7 +12,7 @@ The collab used for this was found (here)
 
 test images:
 
-![AI cat](../assets/post0/cat1.png)
+![AI cat](../assets/images/post0/cat1.png)
 
 References:
 
