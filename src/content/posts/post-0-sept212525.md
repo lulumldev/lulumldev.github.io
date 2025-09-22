@@ -47,7 +47,7 @@ The better result was from still having the strengths that were relative high (1
 ![AI water](../../assets/images/post0/water1.png)
 ![AI water](../../assets/images/post0/water2.png)
 
-## Regional Prompter
+## 3.0 Regional Prompter
 
 Next experiment was to try the regional prompter, which did not work very well .. was supposed to be divided horizontally. 
 But there was still some interesting result, which the best can see here:
@@ -58,12 +58,12 @@ But there was still some interesting result, which the best can see here:
 ![AI water](../../assets/images/post0/fish4.png)
 
 
-References:
+## 4.0 References:
 
--https://stable-diffusion-art.com/how-stable-diffusion-work/
--https://stable-diffusion-art.com/automatic1111/
--https://stable-diffusion-art.com/beginners-guide/
--https://huggingface.co/learn/diffusion-course/unit0/1
--SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis https://arxiv.org/abs/2307.01952
--SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations https://arxiv.org/abs/2108.01073
--High-Resolution Image Synthesis with Latent Diffusion Models https://arxiv.org/pdf/2112.10752
+ - https://stable-diffusion-art.com/how-stable-diffusion-work/
+ - https://stable-diffusion-art.com/automatic1111/
+ - https://stable-diffusion-art.com/beginners-guide/
+ - https://huggingface.co/learn/diffusion-course/unit0/1
+ - SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis https://arxiv.org/abs/2307.01952
+ - SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations https://arxiv.org/abs/2108.01073
+ - High-Resolution Image Synthesis with Latent Diffusion Models https://arxiv.org/pdf/2112.10752
