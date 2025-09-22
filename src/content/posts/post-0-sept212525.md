@@ -2,7 +2,6 @@
 title: Stable Difusion Experiment - w1
 published: 2025-09-21
 description: experiments in stable difusion txt to image
-image: "./fish6.png"
 tags: [Markdown, Blogging, Demo]
 category: Experiment
 draft: false
