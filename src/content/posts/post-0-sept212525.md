@@ -25,6 +25,37 @@ Found out the reason for the multiple subjects was due to using the image size 1
 
 Apparently if the strength of the prompt is adjusted so much their remains a lot of noise in the image as can see:
 
+![AI water](../../assets/images/post0/water3.png)
+![AI water](../../assets/images/post0/water4.png)
+![AI water](../../assets/images/post0/water9.png)
+![AI water](../../assets/images/post0/water10.png)
+
+Although it can have cool effect:
+
+![AI water](../../assets/images/post0/water5.png)
+![AI water](../../assets/images/post0/water6.png)
+![AI water](../../assets/images/post0/water7.png)
+![AI water](../../assets/images/post0/water8.png)
+
+The better result was from still having the strengths that were relative high (1.5 to 1.9) range to have some noisy background but it turned into pattern for the water
+
+![AI water](../../assets/images/post0/water1.png)
+![AI water](../../assets/images/post0/water2.png)
+
+Next experiment was to try the regional prompter, which did not work very well .. was supposed to be divided horizontally.
+But there was still some interesting result, which the best can see here:
+
+![AI water](../../assets/images/post0/fish1.png)
+![AI water](../../assets/images/post0/fish2.png)
+![AI water](../../assets/images/post0/fish3.png)
+![AI water](../../assets/images/post0/fish4.png)
+
+
+
+
+
+
+
 
 
 
