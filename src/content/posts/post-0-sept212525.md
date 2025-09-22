@@ -12,7 +12,7 @@ The collab used for this was found (here)
 
 test images:
 
-<Image src="/assets/images/post0/cat1.jpg" alt="AI cat" width="50" height="50" />
+![AI cat](../assets/post0/cat1.png)
 
 References:
 
