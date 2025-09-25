@@ -2,7 +2,7 @@
 title: Stable Difusion Experiment - w1
 published: 2025-09-21
 description: txt2imag experiments with stable difusion automatic1111
-image: "./fish6.png"
+image: "./post0.png"
 tags: [txt2img, stable diffusion, test, automatic1111]
 category: test
 draft: false
@@ -16,8 +16,6 @@ This will show some examples of the images as result of experiment with the stab
 The collab used from the "stable diffusion art" page [here](https://stable-diffusion-art.com/automatic1111-colab/)
 
 Started with all of the default configurations:
-
-havent figure out how to test it locally yet wiht this template.. 
 
 ![AI cat](../../assets/images/post0/cat1.png)
 ![AI cat](../../assets/images/post0/cat2.png)
